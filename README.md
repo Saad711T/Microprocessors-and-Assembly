@@ -1,6 +1,11 @@
 # Microprocessors-and-Assembly
 Projects for "501326-3 | Microprocessors &amp; Assembly Language" Course in Taif University
 
+## See more :
+
+- [Operating Systems](https://github.com/Saad711T/OperatingSystems)
+- [Computer Architecture](https://github.com/Saad711T/ComputerArchitecture)
+
 ## Subjects
 
 - Introductions to CPUs
